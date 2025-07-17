@@ -60,7 +60,7 @@ It enables you to **track token & NFT balances**, **filter trending assets**, **
 ### ⚙️ Installation
 
 ```bash
-git clone https://github.com/rustyneuron01/evm-defai-agent.git
+git clone https://github.com/Xtoshi9640/evm-defai-agent.git
 cd evm-defai-agent
 cp .env.example .env  # Add your API keys
 pnpm install
@@ -129,5 +129,4 @@ EVM-Defai-Agent/
 
 ## 📫 Contact
 
-Created & maintained by [**RustyNeuron**](https://github.com/rustyneuron01)
-🐦 Twitter: [@rustyneuron\_01](https://x.com/rustyneuron_01)
+Created & maintained by [**Xtoshi**](https://github.com/Xtoshi9640)
